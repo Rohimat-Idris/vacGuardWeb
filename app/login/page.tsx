@@ -199,7 +199,7 @@ export default function LoginPage() {
             </div>
 
             <div className="mt-8 text-center text-sm text-gray-600">
-              Don't have an account?{' '}
+              Don&apos;t have an account?{' '}
               <a href="#" className="text-blue-600 hover:text-blue-500 font-medium" onClick={()=> router.push('/signin')}>
                 Sign up
               </a>

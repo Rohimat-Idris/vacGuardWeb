@@ -25,6 +25,7 @@ useEffect(() => {
     return () => clearInterval(interval);
   }, []);
 
+
   const testimonials = [
     {
       name: "Sarah Johnson",
